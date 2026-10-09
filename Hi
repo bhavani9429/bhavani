@@ -1,5 +1,5 @@
 print("Hi")
 a=10, b=20
 "Total="a+b
-"Total 1="a*b
+"Total S1="a*b
 
